@@ -1,0 +1,4 @@
+variables:
+- team: cloudbees-workshop-org-bwr
+- admin-user: boleslaw-intel-admin
+- manager-user: boleslaw-intel
